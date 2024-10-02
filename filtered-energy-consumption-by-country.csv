@@ -1,4 +1,5 @@
-Entity,Code,Year,Annual change in primary energy consumption (%)
+filtered-energy-consumption-by-country
+Entity,Code,Year,Annual_change_in_primary_energy_consumption
 Afghanistan,AFG,1981,12.663031
 Afghanistan,AFG,1982,6.5054774
 Afghanistan,AFG,1983,22.33379
@@ -1938,7 +1939,7 @@ Cook Islands,COK,1991,-31.226915
 Cook Islands,COK,1992,46.044113
 Cook Islands,COK,1993,-0.27330518
 Cook Islands,COK,1994,0.00011920929
-Cook Islands,COK,1995,-6.556511e-05
+Cook Islands,COK,1995,-6.556511E-05
 Cook Islands,COK,1996,0.2739668
 Cook Islands,COK,1997,-0.27480125
 Cook Islands,COK,1998,-0.0002503395
@@ -3101,7 +3102,7 @@ French Guiana,GUF,1995,16.609287
 French Guiana,GUF,1996,-1.4323354
 French Guiana,GUF,1997,1.4531493
 French Guiana,GUF,1998,0.0
-French Guiana,GUF,1999,2.3841858e-05
+French Guiana,GUF,1999,2.3841858E-05
 French Guiana,GUF,2000,-43.12223
 French Guiana,GUF,2001,83.22086
 French Guiana,GUF,2002,-7.0282516
@@ -3679,7 +3680,7 @@ Guinea-Bissau,GNB,1995,0.0
 Guinea-Bissau,GNB,1996,-4.008198
 Guinea-Bissau,GNB,1997,4.1755676
 Guinea-Bissau,GNB,1998,0.0
-Guinea-Bissau,GNB,1999,3.5762787e-05
+Guinea-Bissau,GNB,1999,3.5762787E-05
 Guinea-Bissau,GNB,2000,-24.297636
 Guinea-Bissau,GNB,2001,1.8382549
 Guinea-Bissau,GNB,2002,2.1597862
@@ -4944,7 +4945,7 @@ Liberia,LBR,1995,0.0
 Liberia,LBR,1996,3.8698792
 Liberia,LBR,1997,-0.27077198
 Liberia,LBR,1998,3.4642935
-Liberia,LBR,1999,1.1920929e-05
+Liberia,LBR,1999,1.1920929E-05
 Liberia,LBR,2000,12.674952
 Liberia,LBR,2001,6.655538
 Liberia,LBR,2002,-1.3543189
@@ -5725,7 +5726,7 @@ Montserrat,MSR,2015,12.541962
 Montserrat,MSR,2016,-42.953438
 Montserrat,MSR,2017,-10.172301
 Montserrat,MSR,2018,11.070311
-Montserrat,MSR,2019,-1.1920929e-05
+Montserrat,MSR,2019,-1.1920929E-05
 Montserrat,MSR,2020,-15.811491
 Montserrat,MSR,2021,6.431973
 Morocco,MAR,1966,31.666124
@@ -7709,7 +7710,7 @@ Sierra Leone,SLE,1995,15.006733
 Sierra Leone,SLE,1996,-1.4692068
 Sierra Leone,SLE,1997,5.129242
 Sierra Leone,SLE,1998,0.00047683716
-Sierra Leone,SLE,1999,1.1920929e-05
+Sierra Leone,SLE,1999,1.1920929E-05
 Sierra Leone,SLE,2000,-49.25907
 Sierra Leone,SLE,2001,25.48381
 Sierra Leone,SLE,2002,0.6161213
@@ -7940,7 +7941,7 @@ Somalia,SOM,1995,0.0
 Somalia,SOM,1996,0.2739787
 Somalia,SOM,1997,-0.2732277
 Somalia,SOM,1998,0.0
-Somalia,SOM,1999,3.5762787e-05
+Somalia,SOM,1999,3.5762787E-05
 Somalia,SOM,2000,25.083769
 Somalia,SOM,2001,1.6596794
 Somalia,SOM,2002,8.104599
@@ -9536,7 +9537,7 @@ W. Sahara,ESH,2015,-0.084877014
 W. Sahara,ESH,2016,-0.22563338
 W. Sahara,ESH,2017,2.0923615
 W. Sahara,ESH,2018,0.0
-W. Sahara,ESH,2019,-1.1920929e-05
+W. Sahara,ESH,2019,-1.1920929E-05
 W. Sahara,ESH,2020,-4.5169115
 W. Sahara,ESH,2021,5.5169106
 Yemen,YEM,1981,1.9429207
